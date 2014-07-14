@@ -1,3 +1,8 @@
+---
+languages: objc
+tags: algorithms, strings, todo
+---
+
 # Palindrome Finder
 
 Write a single method to detect if an `NSString` is a [palindrome](http://en.wikipedia.org/wiki/Palindrome)
